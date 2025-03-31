@@ -1,5 +1,4 @@
 ## 🤗 JAEHEYON IM | Student  
-![Uploading ByuntearCachorroGIF.gif…]()
 
 
 
