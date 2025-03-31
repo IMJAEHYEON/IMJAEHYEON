@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍🏫 Hyeopgeon Lee | Professor of Big Data & Cloud Computing
 
-<!--
-**IMJAEHYEON/IMJAEHYEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+🎓 **Professor at Korea Polytechnic of Seoul Gangseo Campus**  
+💡 Teaching **Cloud Native Application, MSA, Big Data, AI**  
+🔥 Passionate about **Education, Open Source, and Cloud Computing**  
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### 📡 Cloud & DevOps
+- ☁️ **Cloud Native Development** (Kubernetes, Docker)  
+- 🛠️ **Infrastructure as Code** (Helm, ArgoCD)  
+- 🔧 **CI/CD & Automation** (GitHub, Jenkins)  
+- 🏗 **Microservices Architecture (MSA)** (Spring Cloud, API Gateway, Service Mesh)  
+
+### 📊 Big Data & NoSQL
+- 🗄 **Big Data Processing** (Hadoop, Spark, Kafka)  
+- 🗃 **NoSQL Databases** (MongoDB, Redis, Opensearch)  
+
+### ⚙️ Backend & Programming
+- ☕ **Java & Spring Boot** (Spring Cloud, Spring Security, Spring Session, JWT)  
+- 🐍 **Python for AI & Data Science** (FastAPI, Flask, PyTorch, TensorFlow)  
+- 🛠 **Functional & Reactive Programming** (WebFlux)  
+- 📡 **RESTful API** (OpenAPI)  
+- 🖥 **Serverless & Edge Computing** (WasmEdge)  
+
+### 🤖 AI & Machine Learning
+- 🧠 **Deep Learning & NLP** (Transformers, Hugging Face)  
+- 🔍 **LLM (Large Language Models) & RAG (Retrieval-Augmented Generation)**  
+- 📈 **Data Visualization & Analytics** (Matplotlib, Seaborn)  
