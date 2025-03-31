@@ -1,34 +1,33 @@
-# 👨‍🏫 Hyeopgeon Lee | Professor of Big Data & Cloud Computing
+# 👨‍🏫 JAEHEYON IM | Student  
 
 
 
 ## 🚀 About Me
-🎓 **Professor at Korea Polytechnic of Seoul Gangseo Campus**  
-💡 Teaching **Cloud Native Application, MSA, Big Data, AI**  
-🔥 Passionate about **Education, Open Source, and Cloud Computing**  
+🔎 **Student at Korea Polytechnic of Seoul Gangseo Campus**  
+💡 studying **Java & Spring Boot, Big Data, AI**  
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack & learning Expertise
 
 ### 📡 Cloud & DevOps
-- ☁️ **Cloud Native Development** (Kubernetes, Docker)  
-- 🛠️ **Infrastructure as Code** (Helm, ArgoCD)  
-- 🔧 **CI/CD & Automation** (GitHub, Jenkins)  
-- 🏗 **Microservices Architecture (MSA)** (Spring Cloud, API Gateway, Service Mesh)  
+- ☁️ **Cloud Native Development** AWS, K-PaaS    
+- 🔧 **CI/CD & Automation** GitHub  
 
 ### 📊 Big Data & NoSQL
-- 🗄 **Big Data Processing** (Hadoop, Spark, Kafka)  
-- 🗃 **NoSQL Databases** (MongoDB, Redis, Opensearch)  
+- 🗄 **Big Data Processing** (Hadoop)  
+- 🗃 **NoSQL Databases** (MongoDB)  
 
-### ⚙️ Backend & Programming
-- ☕ **Java & Spring Boot** (Spring Cloud, Spring Security, Spring Session, JWT)  
-- 🐍 **Python for AI & Data Science** (FastAPI, Flask, PyTorch, TensorFlow)  
-- 🛠 **Functional & Reactive Programming** (WebFlux)  
-- 📡 **RESTful API** (OpenAPI)  
-- 🖥 **Serverless & Edge Computing** (WasmEdge)  
+### ⚙️ Backend 
+- ☕ **Java & Spring Boot** 
+- 🐍 **Python**  
+- 📡 **RESTful API** (OpenAPI)   
 
-### 🤖 AI & Machine Learning
-- 🧠 **Deep Learning & NLP** (Transformers, Hugging Face)  
-- 🔍 **LLM (Large Language Models) & RAG (Retrieval-Augmented Generation)**  
-- 📈 **Data Visualization & Analytics** (Matplotlib, Seaborn)  
+### ⚙️ Frontend 
+
+- 🆚 **vue.js**
+- 💿 **HTML & CSS**
+- ☸️ **React**
+
+### ⚜️ Certificate 
+- **SQLD Development (SQLD 개발자)**
