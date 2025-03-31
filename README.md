@@ -15,19 +15,30 @@
 - 🔧 **CI/CD & Automation** GitHub  
 
 ### 📊 Big Data & NoSQL
-- 🗄 **Big Data Processing** (Hadoop)  
-- 🗃 **NoSQL Databases** (MongoDB)  
+- 🗄 **Big Data Processing** Hadoop  
+- 🗃 **NoSQL Databases** MongoDB  
 
 ### ⚙️ Backend 
-- ☕ **Java & Spring Boot** 
-- 🐍 **Python**  
-- 📡 **RESTful API** (OpenAPI)   
+- ☕ **Java & Spring Boot** JPA JSP 
+- 🐍 **Python** 
+- 📡 **RESTful API** OpenAPI  
 
 ### ⚙️ Frontend 
 
-- 🆚 **vue.js**
 - 💿 **HTML & CSS**
-- ☸️ **React**
+- ☸️ **Flutter Dart**
+
+### 🤖 Learning in the year (Program , DB)
+
+- **MariaDB**
+- **MongoDB**
+- **AWS**
+- **JAVA & Spring Boot**
+- **R Studio**
+- **PyCharm**
+- **Studio 3T**
+- **VMware**
+
 
 ### ⚜️ Certificate 
 - **SQLD Development (SQLD 개발자)**
