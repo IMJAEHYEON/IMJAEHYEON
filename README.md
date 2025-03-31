@@ -1,4 +1,5 @@
-# 👨‍🏫 JAEHEYON IM | Student  
+## 🤗 JAEHEYON IM | Student  
+![Uploading ByuntearCachorroGIF.gif…]()
 
 
 
@@ -19,24 +20,20 @@
 - 🗃 **NoSQL Databases** MongoDB  
 
 ### ⚙️ Backend 
-- ☕ **Java & Spring Boot** JPA JSP 
+- ☕ **Java & Spring Boot** 
 - 🐍 **Python** 
-- 📡 **RESTful API** OpenAPI  
 
 ### ⚙️ Frontend 
 
 - 💿 **HTML & CSS**
 - ☸️ **Flutter Dart**
 
-### 🤖 Learning in the year (Program , DB)
+### 😎 2025 Learning in the year (해당 학기 배우고있는 프로그램)
 
-- **MariaDB**
-- **MongoDB**
-- **AWS**
+- **MariaDB** **MongoDB** **Studio 3T** **AWS**
 - **JAVA & Spring Boot**
 - **R Studio**
 - **PyCharm**
-- **Studio 3T**
 - **VMware**
 
 
