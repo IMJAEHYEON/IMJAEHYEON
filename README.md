@@ -27,7 +27,7 @@
 - 💿 **HTML & CSS**
 - ☸️ **Flutter Dart**
 
-### 😎 2025 Learning in the year (해당 학기 배우고있는 프로그램)
+### 😎 2025 Learning in the year (해당 학기 학습내용)
 
 - **MariaDB** , **MongoDB** , **Studio 3T** , **AWS**
 - **JAVA & Spring Boot**
