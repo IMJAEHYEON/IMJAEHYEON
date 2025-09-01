@@ -36,8 +36,8 @@
 - **VMware**
 - **Vue.js**
 - **Machine Learning**
-
+- 
 
 ### ⚜️ Certificate 
 - **SQLD Development (SQLD 개발자)**
-- **(정보처리산업기사 준비중)**
+- **(정보처리산업기사 실기 준비중)**
