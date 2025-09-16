@@ -24,11 +24,10 @@
 
 ### ⚙️ Frontend 
 
-- 💿 **HTML & CSS**
-- 
+- 💿 **HTML & CSS** 
 
 ### 😎 I've done it!
-- ☸️ **Flutter Dart**
+- **Flutter Dart**
 - **Vue.js**
 - **Machine Learning**
 - **Go**
