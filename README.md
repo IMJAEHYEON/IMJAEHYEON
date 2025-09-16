@@ -25,19 +25,19 @@
 ### ⚙️ Frontend 
 
 - 💿 **HTML & CSS**
+- 
+
+### 😎 I've done it!
 - ☸️ **Flutter Dart**
-
-### 😎 2025 Learning in the year (해당 학기 학습내용)
-
-- **MariaDB** , **MongoDB** , **Studio 3T** , **AWS**
-- **JAVA & Spring Boot**
-- **R Studio**
-- **PyCharm**
-- **VMware**
 - **Vue.js**
 - **Machine Learning**
+- **Go**
+- **R Studio**
+
   
 
 ### ⚜️ Certificate 
 - **SQLD Development (SQLD 개발자)**
 - **(정보처리산업기사 실기 준비중)**
+- **ADSP (데이터준분석가 준비중)**
+- **워드프로세서 준비중**
